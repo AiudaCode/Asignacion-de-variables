@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489562059 source:c:\users\omarm\dropbox\codeblocks proyects\asignacion\main.cpp
+	<iostream>
+	"Asignacion.h"
+
+1489562298 c:\users\omarm\dropbox\codeblocks proyects\asignacion\include\asignacion.h
+	<iostream>
+
